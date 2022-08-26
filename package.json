@@ -13,11 +13,16 @@
   },
   "author": "Andres Guerrero",
   "license": "ISC",
-  "bugs": {
+
     "url": "https://github.com/aguerreroiz/guiahotelesBS/issues"
   },
   "homepage": "https://github.com/aguerreroiz/guiahotelesBS#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.6.0",
+    "poppers.js": "^1.16.1"
   }
 }
