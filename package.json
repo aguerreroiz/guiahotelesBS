@@ -13,10 +13,9 @@
   },
   "author": "Andres Guerrero",
   "license": "ISC",
-
-    "url": "https://github.com/aguerreroiz/guiahotelesBS/issues"
-  },
+  "url": "https://github.com/aguerreroiz/guiahotelesBS/issues",
   "homepage": "https://github.com/aguerreroiz/guiahotelesBS#readme",
+
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
@@ -26,3 +25,4 @@
     "poppers.js": "^1.16.1"
   }
 }
+
